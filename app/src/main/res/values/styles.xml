@@ -1,0 +1,25 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimaryDark</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+
+    <style name="HoroscopeLabel" parent="Base.Widget.MaterialComponents.TextView">
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:textColor">@color/horoscope_label</item>
+        <item name="fontFamily">@font/abril_fatface</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="Horoscope" parent="Base.Widget.MaterialComponents.TextView">
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="fontFamily">@font/abril_fatface</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>

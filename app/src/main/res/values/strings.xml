@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AztroApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome</string>
+    <string name="transitionTitle">title</string>
+    <string name="enter_your_sign">Enter your sign</string>
+    <string name="today">Today</string>
+    <string name="compatibility">Compatibility:</string>
+    <string name="lucky_number">Lucky number:</string>
+    <string name="lucky_time">Lucky time:</string>
+    <string name="mood">Mood:</string>
+</resources>
